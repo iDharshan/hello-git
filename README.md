@@ -11,3 +11,5 @@
 
 ## Contributors:
 - Dharshan A
+- Pierrs I K
+
