@@ -12,4 +12,4 @@
 ## Contributors:
 - Dharshan A
 - Pierrs I K
--Theo Savio M J
+- -Theo Savio M J
